@@ -1,6 +1,6 @@
 Name:		texlive-byo-twemojis
 Version:	58917
-Release:	1
+Release:	2
 Summary:	"Build Your Own Twemojis" with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/byo-twemojis
