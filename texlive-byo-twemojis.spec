@@ -3,7 +3,7 @@ Version:	58917
 Release:	2
 Summary:	"Build Your Own Twemojis" with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/byo-twemojis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/byo-twemojis
 License:	cc-by-4 lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/byo-twemojis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/byo-twemojis.doc.r%{version}.tar.xz
